@@ -1,16 +1,44 @@
-### Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=15D5F7&height=120&section=header"/>
 
+<div align='center'>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=code&size=30&pause=1000&color=15D5F7&center=true&vCenter=true&width=800&lines=Hello%2C+my+name+is+Rian+Da+Costa+Lima+%F0%9F%91%8B;I'm+18+years+old;I'm+from+Bras%C3%ADlia+-+Brazil;Welcome+%3A)" alt="Typing SVG" /></a>
+</div
 
-**RianLima29/Rianlima29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
+<hr/>
+I am a technology student passionate about learning new things and facing different challenges. My focus is the front-end, I really like to develop functional, clean, attractive and well-presented interfaces. Currently studying Systems Analysis and Development in Brasilia-DF.
+<hr/>
 
-Here are some ideas to get you started:
+## 👩‍💻 Main skills
+  
+  
+<div>
+  <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+  <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+  <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+</div>
+  
+<br/>
+<br/>
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 📱 Feel free to say 'hi'!
 
+<div> 
+  <a href="https://wa.me/5561993028187">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rian-lima-558799227/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
+</br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=15D5F7&height=120&section=footer"/>
