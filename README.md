@@ -11,6 +11,8 @@ I am a technology student passionate about learning new things and facing differ
 
 ## 👩‍💻 Main skills
   
+<br/>
+<br/>
   
 <div>
   <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
@@ -27,10 +29,10 @@ I am a technology student passionate about learning new things and facing differ
   
 <br/>
 <br/>
-<br/>
+
 
 ## 📱 Feel free to say 'hi'!
-
+<br/>
 <div> 
   <a href="https://wa.me/5561993028187">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/>
@@ -40,6 +42,8 @@ I am a technology student passionate about learning new things and facing differ
   </a>
 </div>
 </br>
+
+<hr/>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RianLima29&show_icons=true&count_private=true&hide_border=true&title_color=15D5F7&icon_color=15D5F7&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
