@@ -41,4 +41,11 @@ I am a technology student passionate about learning new things and facing differ
 </div>
 </br>
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RianLima29&show_icons=true&count_private=true&hide_border=true&title_color=15D5F7&icon_color=15D5F7&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RianLima29&layout=compact&hide_border=true&title_color=15D5F7&text_color=15D5F7&bg_color=0d1117" />
+</div>
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=RianLima29&theme=gotham&hide_border=true&area=true)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=15D5F7&height=120&section=footer"/>
