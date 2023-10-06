@@ -34,7 +34,7 @@ I am a technology student passionate about learning new things and facing differ
 ## 📱 Feel free to say 'hi'!
 <br/>
 <div> 
-  <a href="https://wa.me/5561993028187">
+  <a href="https://wa.me/5561992830195">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/rian-lima-558799227/">
