@@ -6,7 +6,7 @@
 
 <br/>
 <hr/>
-I am a technology student passionate about learning new things and facing different challenges. My focus is the front-end, I really like to develop functional, clean, attractive and well-presented interfaces. Currently studying Systems Analysis and Development in Brasilia-DF.
+I am a technology student passionate about learning new things and facing different challenges. My focus is the front-end, I really like to develop functional, clean, attractive and well-presented interfaces. Currently working as TechLead at GTex, DataUnique and Atacadista Super Adega.
 <hr/>
 
 ## 👩‍💻 Main skills
