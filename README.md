@@ -37,7 +37,7 @@ I am a technology student passionate about learning new things and facing differ
   <a href="https://wa.me/5561992830195">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/rian-lima-558799227/">
+  <a href="https://www.linkedin.com/in/rian-lima-9aa393156/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
 </div>
